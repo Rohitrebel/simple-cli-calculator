@@ -30,4 +30,4 @@ python calculator.py
 ```
 
 Output:-
-![alt text](image.png)
+![alt text](https://res.cloudinary.com/ddrbrwcvz/image/upload/v1754293878/Screenshot_2287_td1umz.png)
