@@ -1,5 +1,3 @@
-# simple-cli-calculator
-
 # Simple CLI Calculator
 
 This is a Python-based command-line calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
