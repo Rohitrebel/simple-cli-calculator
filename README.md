@@ -29,6 +29,6 @@ This is a Python-based command-line calculator that performs basic arithmetic op
 python calculator.py
 ```
 
-Output:-
+## Output:-
 
 ![alt text](https://res.cloudinary.com/ddrbrwcvz/image/upload/v1754293878/Screenshot_2287_td1umz.png)
